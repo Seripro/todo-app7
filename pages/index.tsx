@@ -16,7 +16,7 @@ type Todo = {
   createdAt: string;
 };
 
-const BASE_URL = "http://localhost:3000/api/todos";
+const BASE_URL = "http://localhost:5173/api/todos";
 
 function App() {
   const [title, setTitle] = useState("");
