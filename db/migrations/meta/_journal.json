@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1792564179415,
+      "tag": "20261021062939_workable_cargill",
+      "breakpoints": true
+    }
+  ]
+}
