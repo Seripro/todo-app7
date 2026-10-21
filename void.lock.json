@@ -3,7 +3,16 @@
   "source": {},
   "resolved": {
     "account_id": "1ac616ee2c8958f530a169c586cc65d7",
-    "compatibility_date": "2026-02-24"
+    "compatibility_date": "2026-02-24",
+    "d1_databases": [
+      {
+        "binding": "DB",
+        "database_name": "todo-app7-db",
+        "database_id": "a5e426e9-d081-403a-99c0-7bce91d714f1",
+        "migrations_dir": "./db/migrations"
+      }
+    ],
+    "name": "todo-app7"
   },
-  "text": "{\n  \"account_id\": \"1ac616ee2c8958f530a169c586cc65d7\",\n  \"compatibility_date\": \"2026-02-24\"\n}\n"
+  "text": "{\n  \"account_id\": \"1ac616ee2c8958f530a169c586cc65d7\",\n  \"compatibility_date\": \"2026-02-24\",\n  \"d1_databases\": [\n    {\n      \"binding\": \"DB\",\n      \"database_name\": \"todo-app7-db\",\n      \"database_id\": \"a5e426e9-d081-403a-99c0-7bce91d714f1\",\n      \"migrations_dir\": \"./db/migrations\"\n    }\n  ],\n  \"name\": \"todo-app7\"\n}\n"
 }
